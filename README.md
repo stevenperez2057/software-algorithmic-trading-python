@@ -32,5 +32,3 @@ This repository
   * Calculating Weights
   * Generating Our Output File
   * Additional Project Ideas
-
-
